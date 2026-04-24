@@ -1,0 +1,24 @@
+Place your image files in this folder with these exact filenames:
+
+logo.png             → STUFF'D logo (black background)
+favicon.png          → S icon / favicon
+
+hero-food.jpg        → Stacked hawawshi with smoke (hero background, right side)
+hawawshi-classic.jpg → Cheesy close-up hawawshi (Classic card)
+hawawshi-cheese.jpg  → Stacked hawawshi (Cheese card)
+hawawshi-loaded.jpg  → Loaded hawawshi with toppings & drizzle
+
+concept-illustration.jpg → Egyptian woman line art / OUR CONCEPT image
+
+menu-combos.jpg      → Combos menu card image
+menu-sides.jpg       → Sides menu card image
+menu-drinks.jpg      → Drinks menu card image
+menu-sauces.jpg      → Sauces menu card image
+
+store-1.jpg          → Store counter interior
+store-2.jpg          → Store dining area (neon woman sign)
+store-3.jpg          → STUFF'D neon sign wall
+
+packaging.jpg        → STUFF'D packaging boxes & bag
+ingredients.jpg      → Fresh raw meat ingredients
+sauce-pour.jpg       → Sauce being poured into bowl
