@@ -874,6 +874,31 @@ ul   { list-style: none; }
 }
 
 /* ══════════════════════════════════════════════════════════
+   IMAGE FALLBACKS (graceful until real images are placed)
+══════════════════════════════════════════════════════════ */
+.hero-img {
+  background: radial-gradient(ellipse at 70% 50%, #3a1212 0%, #0d0d0d 70%);
+}
+.card-img-wrap,
+.menu-full-img,
+.menu-half-imgs {
+  background: #1c1c1c;
+}
+.concept-center img {
+  background: var(--light);
+  min-height: 300px;
+}
+.store-photos img { background: #1a1a1a; }
+.gallery-grid img { background: #d8d0c8; }
+.logo img,
+.footer-brand img,
+.nl-logo img {
+  min-width: 60px;
+  min-height: 40px;
+  background: transparent;
+}
+
+/* ══════════════════════════════════════════════════════════
    RESPONSIVE
 ══════════════════════════════════════════════════════════ */
 @media (max-width: 1100px) {
